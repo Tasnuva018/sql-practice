@@ -1,0 +1,19 @@
+SELECT * 
+FROM parks_and_recreation.employee_demographics;
+
+SELECT last_name, first_name, age, gender
+FROM parks_and_recreation.employee_demographics;
+
+SELECT first_name,
+last_name,
+age,
+gender,
+(age+10)*2
+FROM parks_and_recreation.employee_demographics;
+# pemdas
+
+SELECT DISTINCT first_name
+FROM parks_and_recreation.employee_demographics;
+
+SELECT distinct first_name,gender 
+FROM parks_and_recreation.employee_demographics;

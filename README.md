@@ -9,8 +9,8 @@ Welcome to my repository! I am learning SQL from the very beginning to advanced 
 - I am following a SQL tutorial series on **[YouTube](https://www.youtube.com/@AlexTheAnalyst)**.
 
 ## 📅 Daily Progress
-- **Day 1**: Created this repository and learned the basics of databases. Learned 'SELECT'.
-- **Day 2**: Learned how to use 'WHERE' to filter data.
+- **Day 1**: Created this repository and learned the basics of databases. Learned `SELECT`.
+- **Day 2**: Learned how to use `WHERE` to filter data.
 - **Day 3**: Learned about sorting data with `ORDER BY` and restricting results with `LIMIT`.
 - **Day 4**: Grouped data using `GROUP BY` and filtered aggregated results using the `HAVING` statement.
 - **Day 5**: Learned how to combine tables using `JOIN` and combined result sets using `UNION`.
